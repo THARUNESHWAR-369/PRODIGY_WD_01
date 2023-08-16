@@ -15,8 +15,6 @@ menu_close_icon.addEventListener("click", () => {
 
 });
 
-
-
 /* Nav color change on scroll */
 
 $(document).ready(function () {
